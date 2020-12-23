@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pruebas sobre <AddCategory> debe mostrar el componente correctamente 1`] = `
+<Fragment>
+  <form
+    onSubmit={[Function]}
+  >
+    <p>
+       
+       
+    </p>
+    <input
+      onChange={[Function]}
+      type="text"
+      value=""
+    />
+    <button
+      className="animate__animated animate__shakeY"
+      onClick={[Function]}
+    >
+      Buscar
+    </button>
+  </form>
+</Fragment>
+`;

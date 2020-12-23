@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`prueba 1 debe mostrar el componente correctamente 1`] = `
+<div
+  className="card animate__animated animate__fadeIn"
+>
+  <img
+    alt="players"
+    src="http://www.google.com"
+  />
+  <p>
+     
+    players
+     
+  </p>
+</div>
+`;

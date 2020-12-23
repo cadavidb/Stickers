@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <GifExpertApp> debe hacer match con el snapshot 1`] = `
+<Fragment>
+  <h2
+    className="animate__animated animate__heartBeat"
+  >
+    Gifs animados
+  </h2>
+  <AddCategory
+    setCategories={[Function]}
+  />
+  <hr />
+  <ol>
+    <GifGrid
+      category="memes"
+      key="memes"
+    />
+  </ol>
+</Fragment>
+`;
+
+exports[`Pruebas en <GifExpertApp> debe mostrar una lista de categorias 1`] = `
+<Fragment>
+  <h2
+    className="animate__animated animate__heartBeat"
+  >
+    Gifs animados
+  </h2>
+  <AddCategory
+    setCategories={[Function]}
+  />
+  <hr />
+  <ol>
+    <GifGrid
+      category="spider man"
+      key="spider man"
+    />
+    <GifGrid
+      category="cops"
+      key="cops"
+    />
+  </ol>
+</Fragment>
+`;
